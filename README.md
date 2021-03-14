@@ -1,10 +1,16 @@
-## I have not added any external libs but I have added comments with 💡 icon to show improvements that can be made
+## Notes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- I have not added any external libs but I have added comments with 💡 icon to show improvements/libs that can be made/used
+
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn`
+
+Install the dependencies
 
 ### `yarn start`
 
