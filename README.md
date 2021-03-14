@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+## I have not added any external libs but I have added comments with 💡 icon to show improvements that can be made
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
