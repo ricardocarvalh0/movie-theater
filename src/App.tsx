@@ -3,6 +3,8 @@ import MovieCard, { Movie as MovieType} from './components/Movie';
 import RateFielter from './components/RateFilter';
 import './App.css';
 
+// TODO: comments with 💡 icon show improvements that can be made
+
 const SERVER_URL = 'https://api.themoviedb.org/3';
 const API_KEY = '6a72b9a6bed91517034495a57a608ed4';
 
